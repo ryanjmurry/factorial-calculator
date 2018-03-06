@@ -1,4 +1,4 @@
-//Business Logic
+//Business Logic (currently not working)
 /*var factorial = function(number) {
   if (number === 0) {
     var total = 1
